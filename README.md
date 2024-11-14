@@ -3,7 +3,7 @@
 
 
 ## What is it?
-This repository contains C reference code to display parse data of DroneScout Bridge receiver dongles (Technical: [MAVLink ADS-B vehicle](https://mavlink.io/en/messages/common.html#ADSB_VEHICLE) or [MAVLink OpenDroneID](https://mavlink.io/en/services/opendroneid.html) messages). It is a basic application that only displays the payload of these messages. A similar application written in Python can be found here: [https://github.com/BluemarkInnovations/RemoteID-DroneScout-Bridge-python](RemoteID-DroneScout-Bridge-python)
+This repository contains C reference code to display parse data of DroneScout Bridge receiver dongles (Technical: [MAVLink ADS-B vehicle](https://mavlink.io/en/messages/common.html#ADSB_VEHICLE) or [MAVLink OpenDroneID](https://mavlink.io/en/services/opendroneid.html) messages). It is a basic application that only displays the payload of these messages. A similar application written in Python can be found here: [RemoteID-DroneScout-Bridge-Python](https://github.com/BluemarkInnovations/RemoteID-DroneScout-Bridge-Python)
 
 
 
